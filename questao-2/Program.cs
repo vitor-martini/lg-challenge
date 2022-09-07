@@ -1,6 +1,6 @@
 ﻿IDictionary<string, int> times = new Dictionary<string, int>();
-string linha = "";
-string time = "";
+string linha;
+string time;
 string maiorCampeao = "";
 int maisTitulos = 0;
 
